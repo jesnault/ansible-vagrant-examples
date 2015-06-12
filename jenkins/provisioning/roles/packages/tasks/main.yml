@@ -1,0 +1,3 @@
+- apt: name=libsqlite3-dev,nodejs,libtool,autoconf,automake,build-essential,libev-dev,make,gcc,id-utils,zlib1g-dev,libpthread-stubs0-dev state=present update_cache=yes
+  sudo: yes
+
